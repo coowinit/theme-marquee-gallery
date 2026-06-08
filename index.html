@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>双向滚动网页栅格 Gallery</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <h1 id="page-title">Drag, drop, set it apart</h1>
+      <p>Seamlessly define a one-of-a-kind design with a range of beautiful themes and patterns.</p>
+      <a class="explore-btn" href="#themes">Explore themes</a>
+    </section>
+
+    <section class="gallery" id="themes" aria-label="Theme gallery">
+      <!-- 第一排：网页截图向右滚动 -->
+      <div class="marquee-row row-right">
+        <div class="marquee-track">
+          <article class="theme-card">
+            <img src="images/theme-grid-01.svg" alt="金色编辑风网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-02.svg" alt="黑红索引风网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-03.svg" alt="艺术展览风网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-04.svg" alt="深色花艺风网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <!-- 复制一组，用于无缝循环 -->
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-01.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-02.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-03.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-04.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <!-- 第二排：网页截图向左滚动 -->
+      <div class="marquee-row row-left">
+        <div class="marquee-track">
+          <article class="theme-card">
+            <img src="images/theme-grid-05.svg" alt="蓝色阅读索引网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-06.svg" alt="杂志标题风网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-07.svg" alt="极简摄影拼贴网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card">
+            <img src="images/theme-grid-08.svg" alt="赤陶色编辑海报网页栅格图" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#">Start with this theme</a>
+              <a class="theme-detail-link" href="#">Theme details</a>
+            </div>
+          </article>
+
+          <!-- 复制一组，用于无缝循环 -->
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-05.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-06.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-07.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+
+          <article class="theme-card" aria-hidden="true">
+            <img src="images/theme-grid-08.svg" alt="" />
+            <div class="theme-overlay">
+              <a class="start-theme-btn" href="#" tabindex="-1">Start with this theme</a>
+              <a class="theme-detail-link" href="#" tabindex="-1">Theme details</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

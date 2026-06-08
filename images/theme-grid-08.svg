@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 490" width="860" height="490" role="img" aria-label="website grid mockup">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity="0.14"/>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#000" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#733323" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#733323" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="220" y="45" width="420" height="400" rx="0" fill="#a8755c" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="245" y="70" width="315" height="130" rx="2" fill="#514d39" opacity="0.58" stroke="none" stroke-width="0"/>
+  <circle cx="435" cy="230" r="90" fill="#514d39" opacity="0.3"/>
+  <rect x="303" y="90" width="315" height="130" rx="2" fill="#b9a47a" opacity="0.58" stroke="none" stroke-width="0"/>
+  <circle cx="453" cy="246" r="90" fill="#b9a47a" opacity="0.3"/>
+  <rect x="361" y="110" width="315" height="130" rx="2" fill="#d2b491" opacity="0.58" stroke="none" stroke-width="0"/>
+  <circle cx="471" cy="262" r="90" fill="#d2b491" opacity="0.3"/>
+  <rect x="419" y="130" width="315" height="130" rx="2" fill="#6e3b30" opacity="0.58" stroke="none" stroke-width="0"/>
+  <circle cx="489" cy="278" r="90" fill="#6e3b30" opacity="0.3"/>
+  <rect x="477" y="150" width="315" height="130" rx="2" fill="#24231f" opacity="0.58" stroke="none" stroke-width="0"/>
+  <circle cx="507" cy="294" r="90" fill="#24231f" opacity="0.3"/>
+  <text x="430" y="208" font-family="Arial" font-size="13" font-weight="700" fill="#f4e5cf" text-anchor="middle" opacity="1">THE</text>
+  <text x="430" y="230" font-family="Arial" font-size="18" font-weight="800" fill="#f4e5cf" text-anchor="middle" opacity="1">OVERLAID</text>
+  <text x="430" y="305" font-family="Georgia, serif" font-size="39" font-weight="500" fill="#f4e5cf" text-anchor="middle" opacity="1">SHALL I COMPARE THEE</text>
+  <text x="430" y="348" font-family="Georgia, serif" font-size="39" font-weight="500" fill="#f4e5cf" text-anchor="middle" opacity="1">TO A SUMMER’S DAY?</text>
+  <text x="430" y="385" font-family="Arial" font-size="15" font-weight="500" fill="#f4e5cf" text-anchor="middle" opacity="0.86">A visual editorial grid for themes, stories, and product pages.</text>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#000" opacity="0.05" stroke="none" stroke-width="0"/>
+</svg>

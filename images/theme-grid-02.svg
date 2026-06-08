@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 490" width="860" height="490" role="img" aria-label="website grid mockup">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity="0.14"/>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#000" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#050505" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#050505" opacity="1" stroke="none" stroke-width="0"/>
+  <text x="34" y="56" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" fill="#ff311f" text-anchor="start" opacity="1">Lineup</text>
+  <text x="765" y="56" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#ff311f" text-anchor="start" opacity="1">Index</text>
+  <text x="34" y="112" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Minor Threat</text>
+  <text x="305" y="112" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Washington, D.C.</text>
+  <text x="595" y="112" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1980–1983</text>
+  <text x="34" y="144" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Government Issue</text>
+  <text x="305" y="144" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">New Jersey, NJ</text>
+  <text x="595" y="144" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1981–1984</text>
+  <text x="34" y="176" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Inside Out</text>
+  <text x="305" y="176" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Orange County, C.</text>
+  <text x="595" y="176" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1982–1985</text>
+  <text x="34" y="208" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Black Flag</text>
+  <text x="305" y="208" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">California, CA</text>
+  <text x="595" y="208" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1983–1986</text>
+  <text x="34" y="240" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Youth of Today</text>
+  <text x="305" y="240" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Danbury, CT</text>
+  <text x="595" y="240" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1984–1987</text>
+  <text x="34" y="272" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Gorilla Biscuits</text>
+  <text x="305" y="272" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">NYC, NY</text>
+  <text x="595" y="272" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1985–1988</text>
+  <text x="34" y="304" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Bold</text>
+  <text x="305" y="304" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Katonah, NY</text>
+  <text x="595" y="304" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1986–1989</text>
+  <text x="34" y="336" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">7 Seconds</text>
+  <text x="305" y="336" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Reno, NV</text>
+  <text x="595" y="336" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1987–1990</text>
+  <text x="34" y="368" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">SSD</text>
+  <text x="305" y="368" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Boston, MA</text>
+  <text x="595" y="368" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1988–1991</text>
+  <text x="34" y="400" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">DYS</text>
+  <text x="305" y="400" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">Boston, MA</text>
+  <text x="595" y="400" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#ff311f" text-anchor="start" opacity="1">1989–1992</text>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="url(#dots)" opacity="0.18" stroke="none" stroke-width="0"/>
+</svg>

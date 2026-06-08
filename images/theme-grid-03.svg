@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 490" width="860" height="490" role="img" aria-label="website grid mockup">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity="0.14"/>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#000" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#775814" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#775814" opacity="1" stroke="none" stroke-width="0"/>
+  <text x="38" y="54" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#151008" text-anchor="start" opacity="1">Thoughts</text>
+  <text x="38" y="80" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#151008" text-anchor="start" opacity="1">Recommendations</text>
+  <text x="38" y="106" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#151008" text-anchor="start" opacity="1">About</text>
+  <rect x="75" y="125" width="710" height="300" rx="0" fill="#2d2618" opacity="1" stroke="none" stroke-width="0"/>
+  <rect x="95" y="145" width="670" height="260" rx="0" fill="#926e30" opacity="1" stroke="none" stroke-width="0"/>
+  <circle cx="180" cy="275" r="88" fill="#3b2c1f" opacity="0.65"/>
+  <rect x="120" y="190" width="180" height="80" rx="12" fill="#3b2c1f" opacity="0.42" stroke="none" stroke-width="0"/>
+  <circle cx="270" cy="310" r="88" fill="#b44925" opacity="0.65"/>
+  <rect x="185" y="225" width="180" height="80" rx="12" fill="#b44925" opacity="0.42" stroke="none" stroke-width="0"/>
+  <circle cx="360" cy="275" r="88" fill="#6b2118" opacity="0.65"/>
+  <rect x="250" y="260" width="180" height="80" rx="12" fill="#6b2118" opacity="0.42" stroke="none" stroke-width="0"/>
+  <circle cx="450" cy="310" r="88" fill="#c49452" opacity="0.65"/>
+  <rect x="315" y="190" width="180" height="80" rx="12" fill="#c49452" opacity="0.42" stroke="none" stroke-width="0"/>
+  <circle cx="540" cy="275" r="88" fill="#222018" opacity="0.65"/>
+  <rect x="380" y="225" width="180" height="80" rx="12" fill="#222018" opacity="0.42" stroke="none" stroke-width="0"/>
+  <circle cx="630" cy="310" r="88" fill="#8a7136" opacity="0.65"/>
+  <rect x="445" y="260" width="180" height="80" rx="12" fill="#8a7136" opacity="0.42" stroke="none" stroke-width="0"/>
+  <text x="430" y="250" font-family="Georgia, serif" font-size="56" font-weight="800" fill="#efe3c2" text-anchor="middle" opacity="0.85">ART SPACE</text>
+  <text x="430" y="294" font-family="Arial" font-size="24" font-weight="700" fill="#efe3c2" text-anchor="middle" opacity="0.9">curated visual stories</text>
+  <rect x="0" y="0" width="860" height="490" rx="0" fill="#000" opacity="0.06" stroke="none" stroke-width="0"/>
+</svg>
