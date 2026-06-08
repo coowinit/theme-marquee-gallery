@@ -12,16 +12,10 @@
 
 ## 在线预览
 
-上传到 GitHub 后，可以通过 GitHub Pages 预览：
+可以通过 GitHub Pages 预览：
 
 ```text
-https://你的用户名.github.io/你的仓库名/
-```
-
-例如：
-
-```text
-https://coowiniris.github.io/theme-marquee-gallery/
+https://coowinit.github.io/theme-marquee-gallery/
 ```
 
 ## 项目结构
@@ -192,98 +186,6 @@ object-fit: cover;
 ```
 
 也可以把 `href="#"` 改成真实链接。
-
-## 上传到 GitHub 的步骤
-
-### 方法一：直接网页上传
-
-1. 新建一个 GitHub 仓库，例如：`theme-marquee-gallery`
-2. 上传本项目中的所有文件和文件夹
-3. 进入仓库的 `Settings`
-4. 找到 `Pages`
-5. Source 选择 `Deploy from a branch`
-6. Branch 选择 `main`，目录选择 `/root`
-7. 保存后等待 GitHub Pages 构建完成
-
-### 方法二：命令行上传
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: add two-way marquee theme gallery"
-git branch -M main
-git remote add origin https://github.com/你的用户名/你的仓库名.git
-git push -u origin main
-```
-
-## 推荐仓库信息
-
-### Repository name
-
-```text
-theme-marquee-gallery
-```
-
-### Description
-
-```text
-纯 HTML + CSS 实现的双向无限滚动网页栅格展示页，支持 hover 遮罩、按钮和详情链接。
-```
-
-### Topics
-
-```text
-html
-css
-svg
-marquee
-gallery
-github-pages
-frontend
-web-design
-```
-
-## 推荐 Commit 信息
-
-### Commit title
-
-```text
-Initial commit: add two-way marquee theme gallery
-```
-
-### Commit description
-
-```text
-- 新增 index.html 页面结构
-- 新增 css/style.css 独立样式文件
-- 新增 8 张 SVG 网页栅格示例图
-- 实现双排相反方向无限滚动
-- 实现 hover 半透明遮罩、按钮和详情链接
-- 新增中文版 README 使用说明
-```
-
-## 推荐 Release 信息
-
-### Release title
-
-```text
-v1.0.0 - 双向滚动网页栅格展示页
-```
-
-### Release description
-
-```text
-首个正式版本，包含完整的 HTML、CSS、SVG 示例图和中文使用说明。
-
-主要功能：
-- 第一排图片向右无限滚动
-- 第二排图片向左无限滚动
-- 鼠标 hover 显示半透明遮罩
-- 遮罩中包含按钮和详情链接
-- CSS 独立放置在 css 目录
-- SVG 示例图独立放置在 images 目录
-- 可直接部署到 GitHub Pages
-```
 
 ## 浏览器兼容性
 
